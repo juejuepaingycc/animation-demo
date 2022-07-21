@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
     btn: {
         width: wp(50),
         height: hp(5),
-        backgroundColor: '#5a9fdb',
+        backgroundColor: '#2351a6',
         justifyContent: 'center',
         alignItems: 'center',
         borderRadius: hp(3),
